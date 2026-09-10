@@ -1,8 +1,3 @@
----
-layout: default
-title: CyberSkald
----
-
 # CyberSkald
 
 ## Independent Cybersecurity Research
