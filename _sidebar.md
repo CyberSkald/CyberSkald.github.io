@@ -1,15 +1,15 @@
-- **CyberSkald**
+- [**CyberSkald**](README.md)
   - [Home](README.md)
   - [About](about.md)
 
-- **Research**
+- [Research](research.md)
   - [Research Index](research.md)
-  
-- **Projects**
+
+- [Projects](projects.md)
   - [Projects Index](projects.md)
 
-- **Field Notes**
+- [Field Notes](field-notes.md)
   - [Field Notes Index](field-notes.md)
 
-- **Methods**
+- [Methods](methods.md)
   - [Methods Index](methods.md)
